@@ -1,11 +1,15 @@
 const dataList = [
 {
     hint : "A person who wander",
-    word : "Harry Potter"
+    word : "Wanderer"
 },
 {
     hint : "Animal that have trunk",
     word : "Elephant"
+},
+{
+    hint : "Person Samundra Loves",
+    word : "Swornima"
 }]
 
 const hintBox  = document.getElementById("hint");
